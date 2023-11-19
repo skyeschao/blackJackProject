@@ -1,22 +1,24 @@
 # blackJackProject
 This is my Black Jack program for Discrete Structures AE3 implemented in python.
 
-## Description
-
-Blackjack, also known as 21, is a popular card game where the goal is to beat the dealer by having a hand value closer to 21 than the dealer's without going over. This implementation provides a simple and interactive experience of the game with a focus on clean, readable code.
+## Overview
+This is a Python-based blackjack game with a GUI, developed for an AE3 project in Discrete Mathematics. The game features a standard blackjack heads-up match against the dealer and includes an innovative calculate function that allows players to better assess their odds of winning during gameplay.
 
 ## Features
-
-- Easy-to-use console interface
+- TKinter-based GUI for immersive gameplay experience
+- Calculate feature to estimate odds of getting a specific card or the chance of not busting.
 - Single player mode against dealer
-- Basic Betting System
-- Money Tracking
+- Basic Money and Betting System
 
 ### Installation
-
 To install the Blackjack game, follow these steps:
 
 ```bash
 git clone https://github.com/skyeschao/blackJackProject
 cd blackJackProject
 
+## Author
+- Skye Chao
+
+
+Enjoy the game, and remember – the house never wins!
