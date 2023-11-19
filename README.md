@@ -10,15 +10,16 @@ This is a Python-based blackjack game with a GUI, developed for an AE3 project i
 - Single player mode against dealer
 - Basic Money and Betting System
 
-### Installation
-To install the Blackjack game, follow these steps:
-
-```bash
-git clone https://github.com/skyeschao/blackJackProject
-cd blackJackProject
 
 ## Author
 - Skye Chao
 
 
 Enjoy the game, and remember – the house never wins!
+
+### Installation
+To install the Blackjack game, follow these steps:
+
+```bash
+git clone https://github.com/skyeschao/blackJackProject
+cd blackJackProject
