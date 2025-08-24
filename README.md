@@ -1,5 +1,5 @@
 # blackJackProject
-This is my Black Jack program for Discrete Structures AE3 implemented in python.
+This is a Black Jack program letting the user play against the house (has UI included).
 
 ## Overview
 This is a Python-based blackjack game with a GUI, developed for an AE3 project in Discrete Mathematics. The game features a standard blackjack heads-up match against the dealer and includes an innovative calculate function that allows players to better assess their odds of winning during gameplay.
